@@ -11,4 +11,4 @@
 
 ## Demo
 
-![Demo](https://github.com/user-attachments/assets/510a9433-9ce1-4276-bf2a-2786d5c8814d)
+![Demo](https://github.com/Yaya12085/rn-scroll-animation/blob/main/assets/demo/demo.mp4?raw=true)
